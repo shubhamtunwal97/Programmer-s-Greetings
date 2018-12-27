@@ -1,6 +1,11 @@
 # Programmer-s-Greetings
-A java based project to greet your pals.
+A java program to greet your pals.
 
+How to run:
+<ul>
+  <li>Create a new Netbeans Java Project</li>
+  <li>Paste both the files in project directory</li>
+  </ul>
 
 The project contains 2 files:
 <ul>
